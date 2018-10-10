@@ -1,0 +1,56 @@
+{
+  "cave13": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:cave1",
+        "stream": true
+      }
+    ]
+  },
+  "corruptedsteve0": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:record-7-13-2018_12-27-41 (online-audio-converter.com)",
+        "stream": false
+      }
+    ]
+  },
+  "corruptedsteve1": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:record-7-13-2018_12-27-34 (online-audio-converter.com)",
+        "stream": false
+      }
+    ]
+  },
+  "corruptedsteve2": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:record-7-13-2018_12-27-27 (online-audio-converter.com)",
+        "stream": false
+      }
+    ]
+  },
+  "corrupotedsteve3": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:record-7-13-2018_12-27-21 (online-audio-converter.com)",
+        "stream": false
+      }
+    ]
+  },
+  "corruptedsteve4": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:record-7-13-2018_12-27-11 (online-audio-converter.com)",
+        "stream": false
+      }
+    ]
+  }
+}

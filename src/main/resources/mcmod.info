@@ -1,0 +1,19 @@
+[
+{
+  "modid": "intcompgadmodrewritten",
+  "name": "IntCompGadMod - Rewritten!!!!",
+  "description": "This modification for Minecraft Forge/Forge Mod Loader/Minecraft Coder Pack is a Modification that Jaden LeMieux named his mod upon the godly Jaden's Mod, then had/was forced to rename/rewrite his modification via MCreator, all because of his Development Environment in his Eclipse IDE Version Breakdown. The results?? Well, the end ends with the end of him. -MORE STORIES TO COME-     -jaden-",
+  "version": "1.0.9.9_bugfix2",
+  "credits": "Created using mod maker MCreator",
+  "logoFile": "/logo.png",
+  "mcversion": "1.12.2",
+  "url": "https://mcreator.net/about/",
+  "updateUrl": "",
+  "authorList": [ "jadenquinn8 (misterrredstone, Jaden LeMieux, Jadenquinn); MaskedRPM8 (maskedrpm8, Tito Mora, Red's Best Friend, Lonely-Kun)" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
